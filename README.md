@@ -36,10 +36,10 @@ As for scores by school type, the results also remained similar, you could also 
 
 
 ## Summary
-1)There was a significant drop in overall passing percentage. Thomas High dropped by 26%
-2)There was a significant drop in school rankings from being second to being eighth
-3)There were differences to almost every score, although some could only be seen in the hundredths and thousandths digits due to being minimal
-4)There were results listed as "nan" as a way to remove possibly false scores inputed for Thomas High 9th grade class. Around 500 scores had to be removed.
+- There was a significant drop in overall passing percentage. Thomas High dropped by 26%
+- There was a significant drop in school rankings from being second to being eighth
+- There were differences to almost every score, although some could only be seen in the hundredths and thousandths digits due to being minimal
+- There were results listed as "nan" as a way to remove possibly false scores inputed for Thomas High 9th grade class. Around 500 scores had to be removed.
 
 
 
