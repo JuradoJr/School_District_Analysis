@@ -1,4 +1,4 @@
-# School_District_Analysis
+# School District Analysis
 ## Overview of School District Analysis
 The purpose of this project was to analyze the reading and math scores of students from different perspectives such as by grade level, school, and calculated the budgets. However, due to the possibility that Thomas High School's 9th grade class may have cheated, some of their scores had to be removed and re-analyzed to get a more honest and accurate result.
 
